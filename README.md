@@ -3,7 +3,7 @@
 This part provides API for interaction with openAI chat.   
 
 ## Configuration: 
-Application use `OPENAI_API_KEY`. It should be written in `.env`
+Application use `OPEN_AI__API_KEY`. It should be written in `.env`
 Model for interation with chatGPT should defined in `.env` too. 
 Example of file is provided in `.env.default`
 Should be written values for: 
