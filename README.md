@@ -8,3 +8,6 @@ Command for API server can be changed (port number). It can depend on environmen
 
 URL for Swagger DOCS: 
 http://127.0.0.1:8008/docs
+
+If API should be available in the WWW we can use ngrok: 
+ngrok http 8008
