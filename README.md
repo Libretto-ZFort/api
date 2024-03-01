@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 ## Configuration: 
 Application use `OPENAI_API_KEY`. It should be written in `.env`
-Model for interation with chatGPT should defind in `.env` too. 
+Model for interation with chatGPT should defined in `.env` too. 
 Example of file is provided in `.env.example`
 
 ## Run API server: 
