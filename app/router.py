@@ -29,8 +29,7 @@ async def get_ai_response(question: QuestionInputDto):
             {
                 "role": "system",
                 "content": (
-                    "You are a helpful assistant, skilled in explaining "
-                    "complex concepts in simple terms."
+                    "Generate description for the text as task description"
                 ),
             },
             {
