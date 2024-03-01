@@ -18,7 +18,7 @@ class Settings(BaseSettings):
         extra="ignore",
     )
 
-    api_title: str = "Workshop"
+    api_title: str = "Librette"
     secret_key: str = "invalid"
     debug: bool = False
 
