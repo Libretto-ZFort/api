@@ -1,5 +1,5 @@
 
-# Libretto Project Launch Guide
+# Libretto API
 This part provides API for interaction with openAI chat.   
 
 ## Configuration: 
